@@ -1,3 +1,5 @@
+# Dynamically modify javascript class methods!
+# ㅤ
 # TODO: 
 ### Support "this" key word
 # Usage:ㅤ
