@@ -1,9 +1,6 @@
 # TODO: 
 ### Support "this" key word
-
-##
-
-### Usage:
+# Usage:
 ###
 ### Create Modifier For The Target Class (GooseV2)
 ### var gooseModifier = new MethodModif(GooseV2)
