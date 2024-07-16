@@ -19,6 +19,10 @@
 ### ㅤ
 ### var g = new GooseV2();
 ### g.test(); // Result: original...
-### var gooseModifier = new MethodModif(GooseV2)
+### var gooseModifier = new MethodModif("GooseV2")
 ### gooseModifier.overrideMethod("test", "console.log('test!')");
 ### g.test(); // Result: test!
+### ㅤ
+# Notes:
+### The class name when passed thru the MethodModif constructor the class must be its name (A string) not the actual class
+### ex: new MethodModif(GooseV2) -> new MethodModif("GooseV2")
