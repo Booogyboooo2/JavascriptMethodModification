@@ -17,7 +17,6 @@
 ### ㅤㅤ}
 ### }
 ### ㅤ
-### Result:
 ### var g = new GooseV2();
 ### g.test(); // Result: original...
 ### var gooseModifier = new MethodModif(GooseV2)
