@@ -1,25 +1,25 @@
 # TODO: 
 ### Support "this" key word
 # Usage:
-###
+### ㅤ
 ### Create Modifier For The Target Class (GooseV2)
 ### var gooseModifier = new MethodModif(GooseV2)
-###
+### ㅤ
 ### Run Modifier To Override The Method "test" and replace with code "console.log('test!')"
 ### gooseModifier.overrideMethod("test", "console.log('test!')");
-###
+### ㅤ
 ### -------------------------------------------------------
-###
+### ㅤ
 ### Example:
-###
+### ㅤ
 ### -------------------------------------------------------
-###
+### ㅤ
 ### class GooseV2 {
 ###      test() {
 ###          console.log("original...");
 ###      }
 ### }
-###
+### ㅤ
 ### Result:
 ### var g = new GooseV2();
 ### g.test(); // Result: original...
